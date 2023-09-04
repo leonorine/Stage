@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: beige;
+    color: #b47810;
+}
+
+#nom,#etudes{
+    left: 5%;
+}
+
+.how,a{
+    color: #b47810;
+    right: 5%;
+}
+
+#nom,#etudes,.how,a{
+    font-size: 20px;
+    position: absolute;
+    
+
+}
+
+#nom{
+    bottom: 8%;
+}
+
+#etudes{
+    bottom: 3%;
+}
+
+a{
+    bottom: 6%;
+}
+
+.how{
+    bottom: 9%;
+}
